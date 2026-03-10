@@ -1,0 +1,9 @@
+{
+	"name": "adf-nyc-taxxi-mk",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "48cc0296-4624-4597-a438-d9569b76c14c",
+		"tenantId": "d583b88f-9383-477e-aaa0-c9cff499093c"
+	}
+}
